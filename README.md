@@ -77,6 +77,3 @@ This project is licensed under the **MIT License**. You are free to use and modi
 
 ---
 
-🔥 With this README, your repo will look professional and recruiter-friendly.
-
-👉 Do you also want me to generate the **`requirements.txt`** file so anyone can easily install dependencies and run your notebook?
